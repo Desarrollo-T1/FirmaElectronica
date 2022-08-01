@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FEGEM", "FEGEM\FEGEM.csproj", "{DFDB1925-58FC-468D-98CA-04A2FE826ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RECONOCIMIENTOS", "RECONOCIMIENTOS\RECONOCIMIENTOS.csproj", "{C328B028-F1FF-49D0-9C88-A9C1E811A318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDB1925-58FC-468D-98CA-04A2FE826ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDB1925-58FC-468D-98CA-04A2FE826ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDB1925-58FC-468D-98CA-04A2FE826ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDB1925-58FC-468D-98CA-04A2FE826ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C328B028-F1FF-49D0-9C88-A9C1E811A318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C328B028-F1FF-49D0-9C88-A9C1E811A318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C328B028-F1FF-49D0-9C88-A9C1E811A318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C328B028-F1FF-49D0-9C88-A9C1E811A318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C5750A8-6C3D-4EB6-8087-05C3EB352B4E}
+	EndGlobalSection
+EndGlobal
